@@ -18,6 +18,7 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
+    // 添加注释
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor greenColor];
     UIButton  *button  = [UIButton  buttonWithType:UIButtonTypeCustom];
